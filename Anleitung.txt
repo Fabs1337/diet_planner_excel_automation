@@ -1,0 +1,13 @@
+1. Grundlegend
+	- Ordner entpacken
+	- entpackten Ordner an einen Ort speichern wo man ihn 	 	  findet
+2. Anwendung
+	- Mappe1.xlsm öffnen
+	- in Spalte A den Namen auf englisch schreiben
+	- in Spalte B die Menge schreiben
+	- restliche Spalten werden nach kurzer Zeit automatisch 	  ausgefüllt
+	- Die Software "lernt" von dir, je öfter/länger du sie 	  	  benutzt umso schneller werden die rückgaben
+3. Neues Excel sheet erstellen
+	- Falls man ein neues Excel sheet möchte MUSS man das 		  originale kopieren
+	- Der Name des Sheets kann beliebig gewählt werden
+	- Am besten eine Kopie der leeren Excel Datei machen vor 	  der ersten Verwendung damit man immer ein frisches zum 	  kopieren hat und nicht die Zeilen und Spalten leeren 	  	  muss nach dem kopieren
